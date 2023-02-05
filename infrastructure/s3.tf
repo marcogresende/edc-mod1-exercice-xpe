@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "dl" {
-    bucket = "datalake-marco-xpe-edc-tf"
+    bucket = "datalake-marco-xpe-edc1-tf"
     acl    = "private"
 
 
