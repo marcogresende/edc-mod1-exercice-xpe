@@ -33,7 +33,7 @@ def handler(event, context):
                     'Ec2KeyName': 'marco-xpe-teste',
                     'KeepJobFlowAliveWhenNoSteps': True,
                     'TerminationProtected': False,
-                    'Ec2SubnetId': 'subnet-1df20360'
+                    'Ec2SubnetId': 'subnet-053b21071375aefa4'
                 },
 
                 Applications=[
